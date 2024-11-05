@@ -1,0 +1,5022 @@
+{
+  "adapt_mode": 2,
+  "anim_data": {},
+  "children": [
+    {
+      "children": [],
+      "event_list": [],
+      "name": "zhujiemian_bg",
+      "uid": "d30023cb-8b04-4de9-ac9a-439291754596",
+      "opacity": 1.0,
+      "type": 4,
+      "image": 0,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          125.0,
+          -68.5,
+          56.5104179,
+          43.6691322,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          2725.0,
+          1227.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [],
+      "event_list": [],
+      "name": "mask",
+      "uid": "8fe23374-abf3-46cd-83b7-9dfebcffd6b8",
+      "opacity": 1.0,
+      "type": 4,
+      "image": 0,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          -47.07,
+          0.0,
+          47.54844,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1935.0,
+          1090.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_bigbarod_bg",
+          "uid": "33df1b1f-7cbb-40f0-8b85-26ae85fcf8dc",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134252151,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              572.5,
+              0.0,
+              79.81771,
+              50.0,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              788.0,
+              1090.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shuxing_line",
+          "uid": "372d2806-7b84-4cbf-b470-92d9876ba1d2",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134233973,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              390.5,
+              -28.0,
+              70.33854,
+              47.4122,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              212.0,
+              18.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shuxing_line",
+          "uid": "1a611636-2d61-42d5-84b8-83777236e9e7",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134233973,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              390.5,
+              -73.0,
+              70.33854,
+              43.2532349,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              212.0,
+              18.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " bg",
+      "uid": "2b30e74d-71d7-41a3-a14d-0a4a56ab3550",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_yeqian_select_btn_hov",
+          "uid": "c3fd0b85-f902-4d16-b6da-a7a52648aabb",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134264709,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              538.5,
+              -512.5,
+              78.046875,
+              2.634011,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              68.0,
+              55.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_yeqian_select_btn_sel",
+          "uid": "895d280f-1598-44e9-bc88-efcae37e895d",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134249931,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              538.5,
+              -512.5,
+              78.046875,
+              2.634011,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              68.0,
+              55.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_yeqian_select_btn_nml",
+          "uid": "1b3b381e-8a42-4b90-aa81-251513d5c9b5",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134250643,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              538.5,
+              -512.5,
+              78.046875,
+              2.634011,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              68.0,
+              55.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_yeqian_select_btn_dis",
+          "uid": "73c31341-f356-4a2b-ade1-a1331c3ede92",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134250627,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              596.5,
+              -512.5,
+              81.06771,
+              2.634011,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              68.0,
+              55.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_yeqian_btn_hov",
+          "uid": "b2eda0aa-92bd-42f3-a096-608e4f6ed23b",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134225114,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              596.5,
+              -512.5,
+              81.06771,
+              2.634011,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              68.0,
+              55.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_yeqian_btn_sel",
+          "uid": "28f382d3-07e8-4cc9-a43d-2bfd61272886",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134242256,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              596.5,
+              -512.5,
+              81.06771,
+              2.634011,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              68.0,
+              55.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_yeqian_btn_nml",
+          "uid": "43b217ee-b2f9-4998-ac0a-be511078257e",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134280552,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              596.5,
+              -512.5,
+              81.06771,
+              2.634011,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              68.0,
+              55.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_yeqian_btn_nml",
+          "uid": "76c1e2b0-67fd-4db3-aeb0-89e81ead20f6",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134280552,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              654.5,
+              -511.0,
+              84.08854,
+              2.77264333,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              68.0,
+              56.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_yeqian_btn_nml",
+          "uid": "83fd6983-a657-4884-9412-d54fa580465d",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134280552,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              712.5,
+              -511.0,
+              87.109375,
+              2.77264333,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              68.0,
+              56.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhengli_btn_bg",
+          "uid": "db20e94d-64f6-4983-bde7-374db8de59a9",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134266514,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              334.0,
+              -513.0,
+              67.3958359,
+              2.58780026,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              71.0,
+              62.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhengli_btn_hov",
+          "uid": "4f1710b2-94a1-4ae6-ba8a-c36df8d7aa2f",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134261014,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              334.5,
+              -511.5,
+              67.421875,
+              2.72643256,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              62.0,
+              51.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhengli_btn_sel",
+          "uid": "6beeb509-bcc7-4b82-a042-5525efbf42b6",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134247258,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              334.5,
+              -511.5,
+              67.421875,
+              2.72643256,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              62.0,
+              51.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhengli_btn_dis",
+          "uid": "99854596-882f-41f1-9c7c-2f4e70b6804e",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134269170,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              334.5,
+              -511.5,
+              67.421875,
+              2.72643256,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              62.0,
+              51.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhengli_btn_nml",
+          "uid": "dd55acaf-9043-489c-b133-2374bba17241",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134238928,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              334.5,
+              -511.5,
+              67.421875,
+              2.72643256,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              62.0,
+              51.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " yeqian",
+      "uid": "1a435987-7520-4715-a250-6e7e0f2fc10f",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_role_bg_blue",
+          "uid": "fc34cfb9-7257-4011-b199-d751fa02b8d1",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134225534,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              728.5,
+              176.0,
+              87.94271,
+              66.2661743,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              474.0,
+              616.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_role_bg_frame",
+          "uid": "a98a997f-6ea7-4701-aa4c-a2cbd68fcfeb",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134247057,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              728.5,
+              176.0,
+              87.94271,
+              66.2661743,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              474.0,
+              616.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_role_1",
+          "uid": "4916b1e8-47d7-430c-94b7-8453c631560f",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134234762,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              727.5,
+              166.0,
+              87.890625,
+              65.34196,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              204.0,
+              582.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_pingfen_light",
+          "uid": "4cc61e20-d988-462f-947b-6dc64c53deec",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134245990,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              716.5,
+              -73.0,
+              87.31771,
+              43.2532349,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              222.0,
+              66.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_pingfen_fenge",
+          "uid": "de317e3a-e94c-41d0-8384-38bb2a8880cb",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              723.5,
+              -49.5,
+              87.68229,
+              45.42514,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              238.0,
+              39.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_star_icon",
+          "uid": "b70578d0-9894-4318-af78-5e39446ccd4d",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134281276,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              619.5,
+              445.5,
+              82.265625,
+              91.17375,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              66.0,
+              61.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_moon_icon",
+          "uid": "644b018d-2833-403e-a3e7-a357c0331cdc",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134246478,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              581.5,
+              445.5,
+              80.28646,
+              91.17375,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              66.0,
+              61.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_sun_icon",
+          "uid": "9625fbe7-9646-4530-b350-feefada76ba0",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134267858,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              542.5,
+              445.5,
+              78.25521,
+              91.17375,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              66.0,
+              61.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "level_icon_1",
+          "uid": "6aeb3bf2-2885-4ffb-ad70-d71d4cb500a8",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134233141,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              895.0,
+              375.0,
+              96.6145859,
+              84.65804,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              79.0,
+              88.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_wuqi2_bg",
+          "uid": "d7d395fe-9456-4389-a42f-ff239eb1f745",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134253183,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              897.0,
+              -70.0,
+              96.71875,
+              43.5305,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_xie_bg",
+          "uid": "a6b06b53-2726-4049-b23a-0e0164ad2059",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134275454,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              897.0,
+              19.0,
+              96.71875,
+              51.75601,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_jie2_bg",
+          "uid": "061cb948-0322-45c7-a5d6-fd778d26f627",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134228344,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              897.0,
+              108.0,
+              96.71875,
+              59.981514,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_jie1_bg",
+          "uid": "e86e4a5e-c041-4a16-aa1c-73b4ca56bba1",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134240991,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              897.0,
+              198.0,
+              96.71875,
+              68.2994461,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_xiang_bg",
+          "uid": "84059556-5cee-4963-8d3f-b7a82edfd4c4",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134278587,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              897.0,
+              287.0,
+              96.71875,
+              76.5249557,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_wuqi1_bg",
+          "uid": "bba8fc90-c3e6-443d-b817-7cbdccfce89e",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134236230,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              555.0,
+              -70.0,
+              78.90625,
+              43.5305,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_ku_bg",
+          "uid": "b773881d-0053-48f3-8e8d-256814966623",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134244463,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              555.0,
+              19.0,
+              78.90625,
+              51.75601,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_yao_bg",
+          "uid": "2cff37ee-4f90-451c-ab83-b1196ece9028",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134256151,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              555.0,
+              108.0,
+              78.90625,
+              59.981514,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_yi_bg",
+          "uid": "51edb0c4-3aab-4a0b-bed7-23ec8b3ba21a",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134221142,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              555.0,
+              198.0,
+              78.90625,
+              68.2994461,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_shou_bg",
+          "uid": "f814c0fb-c98a-44fa-878f-d3f49082699c",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134239089,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              555.0,
+              287.0,
+              78.90625,
+              76.5249557,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_zhuangbei_tou_bg",
+          "uid": "509c7a6e-308c-4dcd-8da6-2438b0fd7727",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134276765,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              555.0,
+              377.0,
+              78.90625,
+              84.84288,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              100.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " role",
+      "uid": "c2425428-d98c-44f7-b56b-36ffcd7103a2",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_red",
+          "uid": "d45f08ac-2064-46c4-976a-749ba1ccfcd6",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134229760,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              347.5,
+              -190.5,
+              68.09896,
+              32.3937149,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_red",
+          "uid": "b03dca75-a2da-4ded-afa9-3bcfdde75f2b",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134229760,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              423.5,
+              -190.5,
+              72.05729,
+              32.3937149,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_purple",
+          "uid": "29330c42-05a8-439a-b9f3-4785820910e5",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134260752,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              345.0,
+              -267.0,
+              67.96875,
+              25.3234749,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              88.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_purple",
+          "uid": "8ea476d2-882e-4495-bcac-abadc31fdd92",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134260752,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              423.0,
+              -267.0,
+              72.03125,
+              25.3234749,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              88.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_purple",
+          "uid": "b1af0f08-af7e-4519-b4eb-38e0db5d6bec",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134260752,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              502.0,
+              -267.0,
+              76.1458359,
+              25.3234749,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              88.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_blue",
+          "uid": "87dc71a0-a5de-4559-abcb-833e5eab643b",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134223401,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              581.5,
+              -268.5,
+              80.28646,
+              25.1848431,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_blue",
+          "uid": "444d6897-9050-41a5-a80c-2b14915a9a83",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134223401,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              659.5,
+              -268.5,
+              84.34896,
+              25.1848431,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_blue",
+          "uid": "35fe521e-8903-46b5-aa2f-54f4d5837243",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134223401,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              736.5,
+              -268.5,
+              88.359375,
+              25.1848431,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_blue",
+          "uid": "c860d32b-fdd3-47c9-9dc4-318807c98b81",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134223401,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              814.5,
+              -268.5,
+              92.421875,
+              25.1848431,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_greem",
+          "uid": "7f8a5add-eb7a-41f8-8695-a9e5e12fd6d0",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134247653,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              891.5,
+              -268.5,
+              96.43229,
+              25.1848431,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_greem",
+          "uid": "fcc2381e-7836-4e51-b3b0-88353715712a",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134247653,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              346.5,
+              -346.5,
+              68.046875,
+              17.9759712,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_white",
+          "uid": "3fb0c774-6add-4b2f-a840-27ef2a838941",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134238481,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              424.5,
+              -346.5,
+              72.109375,
+              17.9759712,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_white",
+          "uid": "b9cf1235-e389-4c61-a4a7-85b3e36c55a7",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134238481,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              503.5,
+              -346.5,
+              76.22396,
+              17.9759712,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_white",
+          "uid": "793a97de-dae2-4c6e-b6ce-2f91e9dfce24",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134238481,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              581.5,
+              -346.5,
+              80.28646,
+              17.9759712,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_red",
+          "uid": "df2c87f0-af8c-4733-add9-4fca121fe203",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134229760,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              502.5,
+              -190.5,
+              76.171875,
+              32.3937149,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              92.0,
+              87.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_orange",
+          "uid": "d8c7f3d4-3d34-4d56-8904-2b20c3721547",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134227236,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              580.0,
+              -190.0,
+              80.2083359,
+              32.4399261,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              88.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_orange",
+          "uid": "2f59580e-fdc7-46ac-97ad-a593fa4707e9",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134227236,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              657.0,
+              -190.0,
+              84.21875,
+              32.4399261,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              88.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_yellow",
+          "uid": "9bdc6454-3bcc-46d0-a4c7-c710f2c3c7f7",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134270853,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              735.0,
+              -190.0,
+              88.28125,
+              32.4399261,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              88.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_yellow",
+          "uid": "bd1a7c10-6549-4251-a599-0fb0502aff33",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134270853,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              813.0,
+              -190.0,
+              92.34375,
+              32.4399261,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              88.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_yellow",
+          "uid": "40aac936-0a28-42f2-854c-382738032bfd",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134270853,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              891.0,
+              -190.0,
+              96.40625,
+              32.4399261,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              93.0,
+              88.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " daoju_frame",
+      "uid": "68e18ae2-e829-4079-9b48-a7c2051d71c7",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "20",
+          "uid": "3f0a4b78-17ef-485b-a79b-f68df49a4cc8",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              893.0,
+              -265.0,
+              96.5104141,
+              25.5083179,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              73.0,
+              68.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "19",
+          "uid": "f8352575-b822-456f-9fe7-94c18ebebf88",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              889.0,
+              -189.0,
+              96.3020859,
+              32.53235,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              73.0,
+              84.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "18",
+          "uid": "29037326-393a-49bf-a5dc-52ff5257e5f1",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              658.5,
+              -266.5,
+              84.296875,
+              25.3696861,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              76.0,
+              79.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "17",
+          "uid": "7b0881c1-1520-42f3-9647-a75823968bfe",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              502.5,
+              -190.5,
+              76.171875,
+              32.3937149,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              76.0,
+              79.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "16",
+          "uid": "f007938e-f344-436d-9b94-202a3854a0b2",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              813.0,
+              -189.5,
+              92.34375,
+              32.4861374,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              83.0,
+              73.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "15",
+          "uid": "208d1fd5-d508-4c1c-b9d4-581aba4df9bb",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              654.5,
+              -189.5,
+              84.08854,
+              32.4861374,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              82.0,
+              79.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "14",
+          "uid": "476d1c39-bb27-4df2-948c-3222cef93af3",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              346.5,
+              -347.0,
+              68.046875,
+              17.92976,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              68.0,
+              76.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "13",
+          "uid": "3db175b2-5967-46f3-8595-2a4a4337400d",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              737.0,
+              -269.0,
+              88.3854141,
+              25.1386318,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              57.0,
+              80.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "12",
+          "uid": "679ce811-cf7b-44ff-92cd-b90a59b7bb5d",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              811.0,
+              -265.0,
+              92.2395859,
+              25.5083179,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              81.0,
+              64.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "11",
+          "uid": "52552d25-ea27-4711-9444-0df6cb27476d",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              735.0,
+              -190.0,
+              88.28125,
+              32.4399261,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              81.0,
+              64.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "10",
+          "uid": "0fa44c37-9524-4d54-a6ef-4a2c1644ea12",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              345.5,
+              -267.0,
+              67.99479,
+              25.3234749,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              82.0,
+              78.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "9",
+          "uid": "6fad7df1-eb4b-49b1-9f73-120ddf68dbc6",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              345.5,
+              -188.0,
+              67.99479,
+              32.6247673,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              82.0,
+              78.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "8",
+          "uid": "fac479e1-8a1a-44d9-bdf7-31538a79483d",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              419.5,
+              -346.0,
+              71.84896,
+              18.02218,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              82.0,
+              78.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "7",
+          "uid": "e30211cc-f16f-412c-acf6-71373f594b6e",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              424.5,
+              -264.5,
+              72.109375,
+              25.55453,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              74.0,
+              73.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "6",
+          "uid": "6eacca28-e5f5-4d97-90e0-3ead3d1650ff",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              423.5,
+              -185.5,
+              72.05729,
+              32.8558235,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              74.0,
+              73.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "5",
+          "uid": "b76ea5c6-0183-4b7d-b5cd-1e0a6192a22a",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              582.5,
+              -264.5,
+              80.33854,
+              25.55453,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              74.0,
+              73.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "4",
+          "uid": "a6295145-e76d-4662-be62-00106f4f69d1",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              580.5,
+              -343.0,
+              80.234375,
+              18.2994461,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              70.0,
+              62.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "3",
+          "uid": "926c0d63-b3e7-4df9-8929-a0abfc8d63da",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              578.0,
+              -188.5,
+              80.1041641,
+              32.57856,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              89.0,
+              85.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "2",
+          "uid": "4641af3a-2973-4e73-b3e8-4d147d2e55e8",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              502.5,
+              -345.5,
+              76.171875,
+              18.0683918,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              70.0,
+              75.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "1",
+          "uid": "e08a2f2f-03c3-4c7a-b7de-1031ac5244d1",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              501.0,
+              -266.5,
+              76.09375,
+              25.3696861,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              67.0,
+              73.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "daoju_frame_select_light",
+          "uid": "3511f0a8-d3cd-4b4f-b222-42d647e30fdd",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134231644,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              503.5,
+              -191.0,
+              76.22396,
+              32.3475037,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              110.0,
+              102.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " daoju",
+      "uid": "1ad4d71e-4725-48fe-898c-d8a18892a0e2",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "common_close_btn_bg",
+          "uid": "b486bb99-21db-47e0-a493-6ab7cf6b70cf",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              929.5,
+              506.5,
+              98.41146,
+              96.81146,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              66.0,
+              63.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "common_close_btn_sel",
+          "uid": "9242f9a0-56f2-429b-ba0a-3e74e701a536",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              932.0,
+              508.5,
+              98.5416641,
+              96.9963,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              47.0,
+              41.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "common_close_btn_dis",
+          "uid": "0dd2304c-8b15-4add-bc94-b3953f86fecf",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              932.0,
+              508.5,
+              98.5416641,
+              96.9963,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              47.0,
+              41.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "common_close_btn_hov",
+          "uid": "86b21b46-50b1-4c82-b135-22ed0cdd838d",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              932.0,
+              508.5,
+              98.5416641,
+              96.9963,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              47.0,
+              41.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "common_close_btn_nml",
+          "uid": "c9599842-8b77-4a5e-9ef4-63ee9bfb97f9",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              932.0,
+              508.5,
+              98.5416641,
+              96.9963,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              47.0,
+              41.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " close_btn",
+      "uid": "d70a6498-4bf1-4227-a729-cfa0409b4fa0",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shuxing_icon_bg",
+          "uid": "a9d60f1f-c4d4-4d49-83ea-343c39592304",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134239946,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              328.0,
+              264.0,
+              67.0833359,
+              74.39926,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              75.0,
+              72.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shuxing_icon_bg",
+          "uid": "28d4da84-d58d-4d81-91e3-b5f718372d7e",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134239946,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              328.0,
+              199.5,
+              67.0833359,
+              68.43808,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              75.0,
+              71.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shuxing_icon_bg",
+          "uid": "3ed3e7b9-20a3-4f33-98b7-1d1f058ca52d",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134239946,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              328.0,
+              136.0,
+              67.0833359,
+              62.5693169,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              75.0,
+              72.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shuxing_icon_bg",
+          "uid": "b5015df2-1bf0-4469-a859-a944bae84928",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134239946,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              328.0,
+              71.0,
+              67.0833359,
+              56.561924,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              75.0,
+              72.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_gong_icon",
+          "uid": "e3b2aae9-b103-443c-b7f1-7727e71bef1a",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134220590,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              329.0,
+              265.0,
+              67.1354141,
+              74.491684,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              45.0,
+              44.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_hujia_icon",
+          "uid": "a2c1db83-71ad-4688-a8cb-bb895dad46e7",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134271413,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              328.5,
+              199.0,
+              67.109375,
+              68.39187,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              44.0,
+              46.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_mokang_icon",
+          "uid": "a0772fd2-ca06-40b9-a447-1b966096defb",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134282457,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              327.5,
+              135.5,
+              67.05729,
+              62.5231056,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              44.0,
+              45.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shengming_icon",
+          "uid": "57dec6f4-dc80-42aa-92e9-5e6c696606af",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134243385,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              328.5,
+              69.5,
+              67.109375,
+              56.42329,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              46.0,
+              37.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shuxing_btn_sel",
+          "uid": "ad44262d-85c0-4fca-a8a6-361334a9cb5c",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134258295,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              389.5,
+              345.5,
+              70.28646,
+              81.93161,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              224.0,
+              67.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shuxing_btn_dis",
+          "uid": "30c53eff-2b9e-479f-b445-8b9a5bfcaa16",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134254543,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              389.5,
+              345.5,
+              70.28646,
+              81.93161,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              224.0,
+              67.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shuxing_btn_hov",
+          "uid": "914d0b0e-216c-4b89-8e5c-11bc91400214",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134271336,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              389.5,
+              345.5,
+              70.28646,
+              81.93161,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              224.0,
+              67.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_shuxing_btn_nml",
+          "uid": "ec334a9b-2e16-4a5f-8dff-241ea257b082",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134260475,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              389.5,
+              345.5,
+              70.28646,
+              81.93161,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              224.0,
+              67.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " xinxi",
+      "uid": "3c1f7eae-759f-4ae3-8336-ca99aa88892b",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_level_bg",
+          "uid": "6cb76fd7-fceb-427a-8e5f-7e0f22a5b3d0",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134251405,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              281.5,
+              449.0,
+              64.66146,
+              91.49723,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              118.0,
+              138.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " level",
+      "uid": "6fd5d536-601c-445d-9025-06abce719e8a",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_title_text_bg",
+          "uid": "67dd8414-de9d-4e7d-b3b8-a2f8cbdccbaa",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134237549,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              376.5,
+              501.5,
+              69.609375,
+              96.34935,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              236.0,
+              57.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese_title_icon",
+          "uid": "40029295-984a-4dae-92ce-43f295f361b5",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134260155,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              312.0,
+              511.0,
+              66.25,
+              97.227356,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              69.0,
+              66.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " tittle",
+      "uid": "1df1d825-9f64-4ccd-b798-1d8c4c924d8a",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_46",
+          "uid": "4f5409b0-3e13-4ccf-acd7-c31fa6f4a4b9",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "46",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              279.5,
+              455.0,
+              64.55729,
+              92.05176,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              42.0,
+              28.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "juese",
+          "uid": "427a28c1-958f-4d55-90b0-7f7a109844fb",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "角色",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              372.5,
+              508.5,
+              69.40104,
+              96.9963,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              58.0,
+              31.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_546",
+          "uid": "dd93c8f2-c2d5-4aed-9014-8be97e91d3c4",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "546",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              723.0,
+              -73.0,
+              87.65625,
+              43.2532349,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              65.0,
+              32.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_121",
+          "uid": "39bc3007-16c6-4c6d-b8b8-6dc8805f5f0a",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "121",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              462.5,
+              -3.5,
+              74.08854,
+              49.6765251,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              48.0,
+              25.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_14",
+          "uid": "7ca3a72c-8384-443a-bd03-2c00e637412c",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "14",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              468.0,
+              -49.5,
+              74.375,
+              45.42514,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              37.0,
+              25.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_775",
+          "uid": "acfa0cb2-b86d-4f52-91d6-2ed4b4e0f5da",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "775",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              380.5,
+              251.5,
+              69.81771,
+              73.2439957,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              48.0,
+              25.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_2775",
+          "uid": "0cc55aa5-6316-4196-ae08-be145e5a90d8",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "2775",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              386.0,
+              188.5,
+              70.1041641,
+              67.42144,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              61.0,
+              25.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_2775",
+          "uid": "06b29ef2-2533-4ea4-9d6c-8767c970e1db",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "2775",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              386.0,
+              123.5,
+              70.1041641,
+              61.4140472,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              61.0,
+              25.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_1235",
+          "uid": "017963de-3339-4998-b6fa-a52d444c4ad5",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "1235",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              386.5,
+              59.5,
+              70.13021,
+              55.4990768,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              60.0,
+              25.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "123",
+          "uid": "6c065954-57b9-4b86-8a0f-8dfbe8373302",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "123",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              462.5,
+              -92.5,
+              74.08854,
+              41.4510155,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              48.0,
+              25.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "1",
+          "uid": "65210b0b-00bd-4944-8480-424d50d262ca",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "1",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              537.5,
+              -510.0,
+              77.99479,
+              2.86506462,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              26.0,
+              26.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "2",
+          "uid": "12706de2-304f-4099-88a9-0adca70ce047",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "2",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              594.0,
+              -510.0,
+              80.9375,
+              2.86506462,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              27.0,
+              26.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "3",
+          "uid": "bae4eadd-7d95-4d40-aa1b-ae04dc4079b3",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "3",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              653.5,
+              -510.0,
+              84.03646,
+              2.86506462,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              26.0,
+              26.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "4",
+          "uid": "25d9fd1a-f12b-4a64-bff5-f875a9276729",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "4",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              711.5,
+              -510.0,
+              87.05729,
+              2.86506462,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              28.0,
+              26.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_chenghao",
+          "uid": "fca14546-9165-4cba-9f07-8420a86f117a",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "未选择称号",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              388.0,
+              455.0,
+              70.2083359,
+              92.05176,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              105.0,
+              28.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_nicheng",
+          "uid": "289e4b2e-a5f1-4d73-a542-0b5add6a8502",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "叛逆的卡罗尔",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              390.5,
+              402.0,
+              70.33854,
+              87.15342,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              158.0,
+              34.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_liliang",
+          "uid": "c480389f-cf14-4b71-9c57-5c16202ee2a6",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "力量",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              326.5,
+              -4.0,
+              67.00521,
+              49.6303139,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              54.0,
+              30.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_minjie",
+          "uid": "4c5e86da-566f-4bb4-94ff-b0f956868eed",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "敏捷",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              326.0,
+              -49.5,
+              66.9791641,
+              45.42514,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              55.0,
+              29.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_zhili",
+          "uid": "6d5514d6-0da9-472d-a7e6-84606a618f48",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "智力",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              326.0,
+              -93.0,
+              66.9791641,
+              41.4048042,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              53.0,
+              30.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "pingfen",
+          "uid": "7f4a058e-ed4a-42d1-984c-d197379a0f7a",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "装备评分",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              726.0,
+              -35.0,
+              87.8125,
+              46.76525,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              87.0,
+              28.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "xiangxishuxing",
+          "uid": "c7dbb387-136c-477b-a008-94878ca55c87",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "详细属性",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              390.5,
+              344.0,
+              70.33854,
+              81.79298,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              86.0,
+              28.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "gongqiang",
+          "uid": "4572e151-1dd0-40af-92bc-a91a8892249a",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "攻强",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              382.0,
+              274.5,
+              69.8958359,
+              75.36968,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              55.0,
+              29.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "hujia",
+          "uid": "2d3d23c3-22f2-49a7-bc93-6d5d1b39b14e",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "护甲",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              381.5,
+              210.5,
+              69.86979,
+              69.45471,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              52.0,
+              29.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "shengming",
+          "uid": "ed835229-64d6-4e3e-ad8f-763e3b4f6f9c",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "生命",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              383.5,
+              81.5,
+              69.97396,
+              57.53235,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              54.0,
+              29.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "mokang",
+          "uid": "2fee4cf8-7952-4540-8a09-3b1ae87527fd",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "魔抗",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              383.0,
+              146.0,
+              69.9479141,
+              63.49353,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              55.0,
+              30.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " text",
+      "uid": "82b604cd-d073-47f1-8b68-7e85c43fa323",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ],
+  "name": "RoleInfoDlg",
+  "opacity": 1.0,
+  "type": 2,
+  "visible": true,
+  "uid": "d22a2d8f-0121-4342-b624-7d1b6b06708c",
+  "zorder": 400
+}

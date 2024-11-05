@@ -1,0 +1,534 @@
+{
+  "adapt_mode": 2,
+  "anim_data": {},
+  "children": [
+    {
+      "children": [],
+      "event_list": [],
+      "name": "1",
+      "uid": "6a1ee567-2602-4a3c-b166-18e0c8f7ad73",
+      "opacity": 1.0,
+      "type": 4,
+      "image": 0,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          125.0,
+          -25.0,
+          56.5104179,
+          47.6894646,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          2740.0,
+          1314.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "xiangqing_big_bg",
+          "uid": "b98fc10b-b38b-498f-b174-9f2e208d31ff",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134264080,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              90.5,
+              36.0,
+              54.7135429,
+              53.32717,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              407.0,
+              912.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "common_jundu_line_bg",
+          "uid": "9919aa2c-dd54-46af-8f93-cc3bb2439bda",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              243.0,
+              60.5,
+              62.65625,
+              55.5914955,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              52.0,
+              811.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "common_jundu_line",
+          "uid": "2a1da003-fd72-4f80-90f5-04a83b41ca1c",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              242.5,
+              331.0,
+              62.6302071,
+              80.5915,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              47.0,
+              156.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "common_jundu_btn_1",
+          "uid": "d491547d-9556-48ef-a1bf-df11f2c60305",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              242.5,
+              446.5,
+              62.6302071,
+              91.2661743,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              43.0,
+              27.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "common_jundu_btn_2",
+          "uid": "a2e0288a-4923-4329-a8d1-7e8b3f7f4ce6",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 0,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              242.5,
+              -319.5,
+              62.6302071,
+              20.47135,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              43.0,
+              27.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " xiangqingban",
+      "uid": "779e5766-f219-4092-b443-380293242146",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "event_list": [],
+          "name": "xiangqing_tittle_bg",
+          "uid": "432b271a-aa05-441e-b784-5eea1dd46b47",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134279176,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              79.0,
+              435.0,
+              54.1145821,
+              90.20332,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              342.0,
+              68.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "xiangqing_shuxing_bg",
+          "uid": "283961d3-3101-40db-a414-e80458e7ff2f",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134239860,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              77.5,
+              392.0,
+              54.0364571,
+              86.2292,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              335.0,
+              58.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "xiangqing_jiantou_btn",
+          "uid": "6db03c3d-9920-4f1b-a313-bc6f421b7986",
+          "opacity": 1.0,
+          "type": 4,
+          "image": 134263868,
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              -45.5,
+              439.5,
+              47.6302071,
+              90.6192245,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              59.0,
+              33.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_gongqiang",
+          "uid": "1f14300c-dac7-4a9f-8c29-2248c39282df",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "攻强",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              -36.0,
+              394.5,
+              48.125,
+              86.46026,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              74.0,
+              31.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_4578",
+          "uid": "c3034b1e-4592-4ac9-a080-19c51037ac22",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "4578",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              189.5,
+              394.5,
+              59.8697929,
+              86.46026,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              77.0,
+              27.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        },
+        {
+          "children": [],
+          "event_list": [],
+          "name": "_tili",
+          "uid": "bdfa5ddf-4dcc-4936-9e01-f44cf7197afc",
+          "opacity": 1.0,
+          "type": 3,
+          "text": {
+            "__tuple__": true,
+            "items": [
+              "体力",
+              false
+            ]
+          },
+          "visible": true,
+          "zorder": 400,
+          "adapt_mode": 2,
+          "prefab_sub_key": null,
+          "scene_ui_name": null,
+          "pos_data": {
+            "__tuple__": true,
+            "items": [
+              -8.0,
+              438.0,
+              49.5833321,
+              90.48059,
+              1.0,
+              1.0
+            ]
+          },
+          "size": {
+            "__tuple__": true,
+            "items": [
+              72.0,
+              32.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "event_list": [],
+      "name": " xinxi",
+      "uid": "55cc3f48-08d7-4f93-b6ff-b9c85305b477",
+      "opacity": 1.0,
+      "type": 7,
+      "visible": true,
+      "zorder": 400,
+      "adapt_mode": 2,
+      "prefab_sub_key": null,
+      "scene_ui_name": null,
+      "pos_data": {
+        "__tuple__": true,
+        "items": [
+          0.0,
+          0.0,
+          50.0,
+          50.0,
+          1.0,
+          1.0
+        ]
+      },
+      "size": {
+        "__tuple__": true,
+        "items": [
+          1920.0,
+          1082.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ],
+  "name": "RoleInfoDlg2",
+  "opacity": 1.0,
+  "type": 2,
+  "visible": true,
+  "uid": "b2db70f9-976b-4dac-91ee-fba7965fa5aa",
+  "zorder": 400
+}
